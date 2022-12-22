@@ -3,6 +3,7 @@
 <h3><i>Spare some time to take a look at my <a href="https://www.protonix.tech/">website</a>!</i></h3>
 
 <img src="https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png" align="center" height="200">
+
 ## <p align="center"><h4 align="center"><samp>A Self-Motivated Tech Enthusiast, An IoT Developer, A Cloud Developer ☁  & Web Developer</samp></h4></p>
 
 # AboutMe.js
