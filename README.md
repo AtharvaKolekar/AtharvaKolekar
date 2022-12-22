@@ -5,7 +5,10 @@
 <!-- <img src="https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png" align="center" height="200"> -->
 ![](https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png)
 
-<h4 align="center"><samp>A Self-Motivated Tech Enthusiast 👨‍💻, An Electronics & IoT Developer 🦚, A Cloud & Web Developer ☁ & Drone-Creator ⚒️</samp></h4>
+- <samp><b>A Self-Motivated Tech Enthusiast 👨‍💻</b></samp> 
+- <samp><b>An Electronics & IoT Developer 🦚💻</b></samp> 
+- <samp><b>A Cloud & Web Developer ☁</b></samp> 
+- <samp><b>A Drone-Creator ⚒️</b></samp>
 
 # AboutMe.js
 
