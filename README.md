@@ -30,8 +30,8 @@ const apollo = {
 # GitHub Analytics
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"></p> -->
 <!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&margin-w=15"></p> -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api ?username=atharvakolekar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=dark"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilardi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=dark"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=atharvakolekar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=dark"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakolekar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=dark"></p>
 
 <!-- <p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvakolekar" alt="Atharva" /></p> -->
 <!--  <pre align="center"> -->
