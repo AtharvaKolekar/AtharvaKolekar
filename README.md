@@ -38,7 +38,7 @@ const apollo = {
 <br>
 <img width="33%" src="https://github-readme-stats.vercel.app/api?username=atharvakolekar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=dark">
 
-<img width="333%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakolekar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=synthwave" >
+<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakolekar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=synthwave" >
 
 </p>
 
