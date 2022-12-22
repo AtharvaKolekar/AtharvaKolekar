@@ -3,3 +3,21 @@
 <h3><i>Spare some time to take a look at my <a href="https://www.protonix.tech/">website</a>!</i></h3>
 
 <img src="https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png" align="center" height="200">
+
+### AboutMe.js
+
+```javascript
+const Apollo = {
+    pronouns: "He" | "Him",
+    code: [Javascript, HTML, CSS],
+    askMeAbout: ["WebDev", "Tech", "BGMI", "Music", "Coffee"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap", "materialize"]
+        },
+        backEnd: {
+            js: ["firebase", "node"]
+        }        
+    }
+};
+```
