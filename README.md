@@ -27,7 +27,7 @@ const apollo = {
 ```
 # Status
 <h4 align="center">
-[trophy](https://github-profile-trophy.vercel.app/?username=atharvakolekar&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=atharvakolekar&margin-w=15)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=cobalt&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </h4>
 # Skills and Languages
