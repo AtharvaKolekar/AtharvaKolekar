@@ -26,9 +26,8 @@ const apollo = {
 };
 ```
 # Status
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=cobalt&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
 ![trophy](https://github-profile-trophy.vercel.app/?username=atharvakolekar&margin-w=15)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=cobalt&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # Skills and Languages
 <p align="left">
