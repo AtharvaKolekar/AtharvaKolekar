@@ -54,7 +54,6 @@ const apollo = {
 # Skills and Languages
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">  <img src="https://img.shields.io/badge/Raspberry_pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">  <img src="https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/MATLAB-800000?style=for-the-badge&logo=MathWorks&logoColor=white">  <img src="https://img.shields.io/badge/SCILAB-004C93?style=for-the-badge&logo=MathWork&logoColor=white">  <img src="https://img.shields.io/badge/Java-013243?style=for-the-badge&logo=Java&logoColor=white"> </p>
-<p align="right"><img height="250px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></p>
 
 # Tools and Platform
 
@@ -69,4 +68,6 @@ const apollo = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 <!-- ![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=for-the-badge&logo=HackerRank&logoColor=black) -->
 <!-- ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white) -->
+ 
+<p align="right"><img height="250px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></p>
  
