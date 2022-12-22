@@ -71,5 +71,5 @@ const apollo = {
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&margin-w=15) -->
 <!-- </pre> -->
 
-<p align="right"><img height="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></p>
+<p align="right"><img height="300px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></p>
 
