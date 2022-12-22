@@ -2,7 +2,8 @@
 
 <h3><i>Spare some time to take a look at my <a href="https://www.protonix.tech/">website</a>!</i></h3>
 
-<img src="https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png" align="center" height="200">
+<!-- <img src="https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png" align="center" height="200"> -->
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 ## <p align="center"><h4 align="center"><samp>A Self-Motivated Tech Enthusiast, An Electronics & IoT Developer, A Cloud & Web Developer ☁ & Drone-Creator</samp></h4></p>
 
