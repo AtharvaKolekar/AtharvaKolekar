@@ -5,7 +5,7 @@
 <!-- <img src="https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png" align="center" height="200"> -->
 ![](https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png)
 
-<samp><b>A Self-Motivated Tech Enthusiast, An Electronics & IoT Developer, A Cloud & Web Developer ☁ & A Drone-Creator ⚒️</b></samp>
+<samp align="center"><b>A Self-Motivated Tech Enthusiast, An Electronics & IoT Developer, A Cloud & Web Developer ☁ & A Drone-Creator</b></samp>
 
 # AboutMe.js
 
