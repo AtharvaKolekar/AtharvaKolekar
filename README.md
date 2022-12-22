@@ -11,6 +11,7 @@ const apollo = {
     pronouns: "He" | "Him",
     code: [Javascript, HTML, CSS],
     askMeAbout: ["WebDev", "Tech", "BGMI", "Music", "Coffee"],
+    description: ["I am a Full Stack Software Developer and Drone-Making enthusiast. I am passionate about technologies and love to learn new things."],
     technologies: {
         frontEnd: {
             css: ["bootstrap", "materialize"]
