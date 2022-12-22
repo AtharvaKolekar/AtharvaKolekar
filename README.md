@@ -42,7 +42,7 @@ const apollo = {
 <img height="141px" src="https://github-readme-stats.vercel.app/api?username=atharvakolekar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=dark">
 <br>
 <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakolekar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=synthwave" >
-<img height="120px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvakolekar&bg_color=0,b621fe,1fd1f9&theme=synthwave" />
+<img height="120px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvakolekar" />
 </p>
 
 <!-- <p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvakolekar" alt="Atharva" /></p> -->
