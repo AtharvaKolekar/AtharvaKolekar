@@ -26,10 +26,10 @@ const apollo = {
 };
 ```
 # Status
-<p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=atharvakolekar&margin-w=15)](https://github.com/AtharvaKolekar)
+<h4 align="center">
+[trophy](https://github-profile-trophy.vercel.app/?username=atharvakolekar&margin-w=15)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=cobalt&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</p>
+</h4>
 # Skills and Languages
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">  <img src="https://img.shields.io/badge/Raspberry_pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">  <img src="https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/MATLAB-800000?style=for-the-badge&logo=MathWorks&logoColor=white">  <img src="https://img.shields.io/badge/SCILAB-004C93?style=for-the-badge&logo=MathWork&logoColor=white">  <img src="https://img.shields.io/badge/Java-013243?style=for-the-badge&logo=Java&logoColor=white"> </p>
