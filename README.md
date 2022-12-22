@@ -25,3 +25,7 @@ const apollo = {
     }
 };
 ```
+# ⚡ Tech Stack
+
+Here are a few things I've picked up along my learning journey.
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
