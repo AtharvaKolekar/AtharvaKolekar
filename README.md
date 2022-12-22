@@ -7,7 +7,8 @@
 ![](https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png)
 
  <h4 align="center"><samp>A Self-Motivated Tech Enthusiast, An Electronics & IoT Developer, A Cloud & Web Developer ☁ & A Drone-Creator</samp></h4>
-
+<!-- https://github.com/amandewatnitrr -->
+<!-- https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/README.md? -->
 # AboutMe.js
 
 ```javascript
@@ -26,12 +27,13 @@ const apollo = {
     }
 };
 ```
-# Status
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=cobalt&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"></p>
-<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvakolekar" alt="Atharva" /></p>
+# GitHub Analytics
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&margin-w=15"></p>
+<!-- <p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvakolekar" alt="Atharva" /></p> -->
 <!--  <pre align="center"> -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=cobalt&border_radius=5&date_format=M%20j%5B%2C%20Y%5D) -->
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=atharvakolekar&margin-w=15) -->
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&margin-w=15) -->
 <!-- </pre> -->
 
 # Skills and Languages
