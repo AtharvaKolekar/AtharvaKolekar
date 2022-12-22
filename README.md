@@ -9,9 +9,9 @@
 ```javascript
 const apollo = {
     pronouns: "He" | "Him",
-    code: [Javascript, HTML, CSS],
+    code: [Javascript, HTML, CSS, PHP, PYTHON, C ],
     keywords: ["WebDev", "Tech", "PWA", "Drone", "BGMI", "Music", "Coffee"],
-    description: ["A Self-Motivated Tech Enthusiast, an IoT Developer and Full Stack Web Developer."],
+    description: ["A Self-Motivated Tech Enthusiast, an IoT Developer and Full Stack Web Developer"],
     technologies: {
         frontEnd: {
             css: ["bootstrap", "materialize"]
