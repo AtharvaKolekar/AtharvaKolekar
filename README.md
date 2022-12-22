@@ -62,12 +62,12 @@ const apollo = {
 ![Qwiklabs](https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=800000)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=for-the-badge&logo=Firebase&logoColor=DD1100)
-<!-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white) -->
 ![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 <!-- ![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=for-the-badge&logo=HackerRank&logoColor=black) -->
 <!-- ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white) -->
- 
+<!-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white) -->
+
 <p align="right"><img height="250px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></p>
 
