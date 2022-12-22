@@ -4,10 +4,10 @@
 
 <img src="https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png" align="center" height="200">
 
-### AboutMe.js
+# AboutMe.js
 
 ```javascript
-const Apollo = {
+const apollo = {
     pronouns: "He" | "Him",
     code: [Javascript, HTML, CSS],
     askMeAbout: ["WebDev", "Tech", "BGMI", "Music", "Coffee"],
@@ -16,7 +16,7 @@ const Apollo = {
             css: ["bootstrap", "materialize"]
         },
         backEnd: {
-            js: ["firebase", "node"]
+            js: ["firebase"]
         }        
     }
 };
