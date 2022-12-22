@@ -32,13 +32,14 @@ const apollo = {
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"></p> -->
 <!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&margin-w=15"></p> -->
 
-<p align="center" width="100%">
+<p align="center">
  
-<img width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
-<br>
-<img width="33%" src="https://github-readme-stats.vercel.app/api?username=atharvakolekar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=dark">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
+</p>
+<p align="center" width="100%">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=atharvakolekar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=dark">
 
-<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakolekar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=synthwave" >
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakolekar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=synthwave" >
 
 </p>
 
