@@ -6,7 +6,7 @@
 <!-- <img src="https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png" align="center" height="200"> -->
 ![](https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png)
 
- <h4 align="center"><samp>A Self-Motivated Tech Enthusiast, An Electronics & IoT Developer, A Cloud & Web Developer ☁ & A Drone-Creator</samp></h4>
+ <h4 align="center"><samp>A Self-Motivated Tech Enthusiast,<br>An Electronics & IoT Developer,<br>A Cloud & Web Developer ☁ & <br>A Drone-Creator</samp></h4>
 <!-- https://github.com/amandewatnitrr -->
 <!-- https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/README.md? -->
 
