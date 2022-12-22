@@ -9,6 +9,7 @@
  <h4 align="center"><samp>A Self-Motivated Tech Enthusiast,<br>An Electronics & IoT Developer,<br>A Cloud & Web Developer ☁ & <br>A Drone-Creator</samp></h4>
 <!-- https://github.com/amandewatnitrr -->
 <!-- https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/README.md? -->
+<!-- https://github.com/anmol098/anmol098 -->
 
 # AboutMe.js
 
@@ -28,7 +29,7 @@ const apollo = {
     }
 };
 ```
-# GitHub Analytics
+# Github Stats
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"></p> -->
 <!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&margin-w=15"></p> -->
 
