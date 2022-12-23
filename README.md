@@ -92,7 +92,7 @@ const apollo = {
 
 # Licences and Certifications
 
-- [Skill Badges in Qwiklabs]()
+- [Skill Badges in Qwiklabs](https://www.cloudskillsboost.google/public_profiles/d3c096e9-7413-4674-9a3a-c6aabbd9fb14)
 
 # Github Stats
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"></p> -->
