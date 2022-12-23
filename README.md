@@ -59,12 +59,12 @@ const apollo = {
 <table>
   <tr>
     <th>Course</th>
-    <th>School/University</th>
+    <th>School/College</th>
     <th>Year of Passing</th>
     <th>Score</th>
   </tr>
   <tr>
-    <td>B.Tech. in Computer Engineering</td>
+    <td>B.Tech in Computer Engineering</td>
     <td><a href="https://pce.ac.in/">Pillai's College of Engineering, Panvel</a></td>
     <td>1st Year</td>
     <td>-</td>
