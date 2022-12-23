@@ -66,8 +66,8 @@ const apollo = {
   <tr>
     <td>B.Tech. in Computer Engineering</td>
     <td><a href="https://pce.ac.in/">Pillai's College of Engineering, Panvel</a></td>
-    <td>2022</td>
-    <td>~</td>
+    <td>1st Year</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>Higher Secondary Certification</td>
@@ -77,7 +77,7 @@ const apollo = {
   </tr>
   <tr>
     <td>Secondary School Certification</td>
-    <td><a href="https://kaveri.edu.in/khsg/">Dr Kalmadi Shamarao High School</a></td>
+    <td>St. Lawrence High School, Vashi</td>
     <td>2020</td>
     <td>94%</td>
   </tr>
