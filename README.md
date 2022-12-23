@@ -84,15 +84,15 @@ const apollo = {
  </table>
  
  # Experience
-- [ATAL Tinkering Lab](https://aim.gov.in/atl.php) - <b>Head In-Charge (School Representative)</b> - <b>2018</b>
+- [<b>ATAL Tinkering Lab</b>](https://aim.gov.in/atl.php) - <b>Head In-Charge (School Representative)</b> - <b>2018</b>
 
 # Volunteer Experience
 
-- [Makerthon 2022](https://drive.google.com/drive/folders/1g1qNxYeNRUOoXkljzwCMsyC2tjkH8oce?usp=sharing) 
+- [<b>Makerthon</b>](https://drive.google.com/drive/folders/1g1qNxYeNRUOoXkljzwCMsyC2tjkH8oce?usp=sharing) - <b>at Pillai's College of Engineering</b> - <b>2022</b>
 
 # Licences and Certifications
 
-- [Skill Badges in Qwiklabs](https://www.cloudskillsboost.google/public_profiles/d3c096e9-7413-4674-9a3a-c6aabbd9fb14)
+- [<b>Skill Badges in Qwiklabs</b>](https://www.cloudskillsboost.google/public_profiles/d3c096e9-7413-4674-9a3a-c6aabbd9fb14) - <b>through GDSC-PCE</b>
 
 # Github Stats
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"></p> -->
