@@ -66,7 +66,7 @@ const apollo = {
   <tr>
     <td>B.Tech in Computer Engineering</td>
     <td><a href="https://pce.ac.in/">Pillai's College of Engineering, Panvel</a></td>
-    <td>1st Year</td>
+    <td>(1st Year)</td>
     <td>-</td>
   </tr>
   <tr>
