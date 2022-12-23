@@ -3,7 +3,6 @@
 <!-- https://emojis.slackmojis.com/emojis/images/1641578819/51091/pikachu_wave.gif?1641578819 -->
 <h3><i>Spare some time to take a look at my <a href="https://www.protonix.tech/">website</a>!</i></h3>
 
-<input type="text">
 <!-- <img src="https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png" align="center" height="200"> -->
 ![](https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png)
 
