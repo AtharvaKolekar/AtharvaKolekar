@@ -55,14 +55,14 @@ const apollo = {
 
 
 <p align="left">          
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaKolekar&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaKolekar&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
   
  
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <img height="141px" src="https://github-readme-stats.vercel.app/api?username=atharvakolekar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=dark">
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <img height="141px" src="https://github-readme-stats.vercel.app/api?username=atharvakolekar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=dark">
 
-<img height="143px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvakolekar&theme=github">  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <img height="143px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvakolekar&theme=github">  
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakolekar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=synthwave">
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakolekar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=synthwave">
 </p>
 
 <!-- <p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvakolekar" alt="Atharva" /></p> -->
