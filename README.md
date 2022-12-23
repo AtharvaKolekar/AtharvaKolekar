@@ -53,6 +53,36 @@ const apollo = {
 <!-- ![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=for-the-badge&logo=HackerRank&logoColor=black) -->
 <!-- ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white) -->
 
+
+# Education
+
+<table>
+  <tr>
+    <th>Course</th>
+    <th>School/University</th>
+    <th>Year of Passing</th>
+    <th>Score</th>
+  </tr>
+  <tr>
+    <td>B.Tech. in Computer Engineering</td>
+    <td><a href="https://pce.ac.in/">Pillai's College of Engineering, Panvel</a></td>
+    <td>2022</td>
+    <td>~</td>
+  </tr>
+  <tr>
+    <td>Higher Secondary Certification</td>
+    <td>St Mary's Junior College, Vashi</td>
+    <td>2022</td>
+    <td>84%</td>
+  </tr>
+  <tr>
+    <td>Secondary School Certification</td>
+    <td><a href="https://kaveri.edu.in/khsg/">Dr Kalmadi Shamarao High School</a></td>
+    <td>2020</td>
+    <td>94%</td>
+  </tr>
+ </table>
+
 # Github Stats
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"></p> -->
 <!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=anirudhbelwadi&title=Commit,Stars,Repositories,PullRequest,Followers&margin-w=15"></p> -->
