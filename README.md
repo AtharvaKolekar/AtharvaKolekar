@@ -82,6 +82,17 @@ const apollo = {
     <td>94%</td>
   </tr>
  </table>
+ 
+ # Experience
+- [ATAL Tinkering Lab](https://aim.gov.in/atl.php) - <b>Head In-Charge (School Representative)</b> - <b>2018</b>
+
+# Volunteer Experience
+
+- [Makerthon 2022](https://drive.google.com/drive/folders/1g1qNxYeNRUOoXkljzwCMsyC2tjkH8oce?usp=sharing) 
+
+# Licences and Certifications
+
+- [Skill Badges in Qwiklabs]()
 
 # Github Stats
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvaKolekar&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"></p> -->
