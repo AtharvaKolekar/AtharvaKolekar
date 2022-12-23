@@ -65,10 +65,7 @@ const apollo = {
 <img height="143px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvakolekar&theme=github">  
 <br>
 
-
-
-<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakolekar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=synthwave" >
-  <br>
+<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakolekar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=synthwave">
 
 </p>
 
