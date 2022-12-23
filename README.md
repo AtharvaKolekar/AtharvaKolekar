@@ -6,7 +6,7 @@
 <!-- <img src="https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png" align="center" height="200"> -->
 ![](https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png)
 
-<h4 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=17&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=A+Self-Motivated+Tech+Enthusiast;An+Electronics+%26+IoT+Developer;A+Computer+Engineer;A+Google+Cloud+Developer+%E2%98%81+;A+Full+Stack+Web+Developer+%3C%2F%3E;A+Drone+Creator;A+Photographer;A+Arduino+%26+Raspberry+Pi+Creator"></h4>
+<h4 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=A+Self-Motivated+Tech+Enthusiast;An+Electronics+%26+IoT+Developer;A+Computer+Engineer;A+Google+Cloud+Developer+%E2%98%81+;A+Full+Stack+Web+Developer+%3C%2F%3E;A+Drone+Creator;A+Photographer;A+Arduino+%26+Raspberry+Pi+Creator"></h4>
 
 <!--  <h4 align="center"><samp>A Self-Motivated Tech Enthusiast,<br>An Electronics & IoT Developer,<br>A Cloud & Web Developer ☁ & <br>A Drone-Creator</samp></h4> -->
 <!-- https://github.com/amandewatnitrr -->
