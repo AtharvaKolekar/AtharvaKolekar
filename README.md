@@ -85,7 +85,7 @@ const apollo = {
  
  # Experience
 - [<b>ATAL Tinkering Lab</b>](https://aim.gov.in/atl.php) - <b>Head In-Charge (School Representative)</b> - <b>2018</b>
-
+- 5 years of Experience in full stack coding, electronics & IoT developments
 # Volunteer Experience
 
 - [<b>Makerthon</b>](https://drive.google.com/drive/folders/1g1qNxYeNRUOoXkljzwCMsyC2tjkH8oce?usp=sharing) - <b>at Pillai's College of Engineering</b> - <b>2022</b>
