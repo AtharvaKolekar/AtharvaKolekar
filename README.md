@@ -20,14 +20,14 @@
 const apollo = {
     pronouns: "He" | "Him",
     code: [Javascript, HTML, CSS, PHP, PYTHON, C ],
-    keywords: ["WebDev", "Tech", "PWA", "Drone", "BGMI", "Music", "Coffee"],
+    keywords: ["WebDev", "Tech", "PWA", "Arduino", "ESP32", "Drone", "BGMI", "Music", "Tea"],
     description: ["A Self-Motivated Tech Enthusiast, an IoT Developer and Full Stack Web Developer"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "materialize"]
+            css: ["bootstrap", ]
         },
         backEnd: {
-            js: ["firebase"]
+            js: ["firebase"], php: [],
         }        
     }
 };
