@@ -6,7 +6,11 @@
 <!-- <img src="https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png" align="center" height="200"> -->
 ![Logo](https://github.com/AtharvaKolekar/AtharvaKolekar/blob/main/header.png)
 
-<p align="center"><img src="https://page-views.glitch.me/badge?page_id=AtharvaKolekar1.id"> <a href="https://instagram.com/atharva.ino"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat"></a></p>
+<p align="center">
+    <img src="https://page-views.glitch.me/badge?page_id=AtharvaKolekar1.id">
+    <a href="https://instagram.com/atharva.ino"><img width="20" src="https://cdn.simpleicons.org/instagram/E4405F"></a>
+    <a href="https://twitter.com/atharva.ino"><img width="20" src="https://cdn.simpleicons.org/twitter/1DA1F2"></a>
+</p>
 <h4 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=fe347e&center=true&vCenter=true&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+A+Self-Motivated+Tech+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;%F0%9F%92%BB+An+Electronics+%26+IoT+Developer+%F0%9F%92%BB;%F0%9F%A4%A9%F0%9F%95%8A%EF%B8%8F+A+Computer+Engineer+%F0%9F%95%8A%EF%B8%8F%F0%9F%A4%A9;%E2%98%81+A+Google+Cloud+Developer+%E2%98%81;%F0%9F%98%8E%3C%2F%3E+A+Full+Stack+Web+Developer+%3C%2F%3E%F0%9F%98%8E;%F0%9F%9A%81+A+Drone+Creator+%F0%9F%9A%81;%F0%9F%93%B8+A+Photographer+%F0%9F%93%B8;%F0%9F%9B%A0%EF%B8%8F+A+Arduino+%26+Raspberry+Pi+Creator+%F0%9F%9B%A0%EF%B8%8F"></h4>
 
 <!--  <h4 align="center"><samp>A Self-Motivated Tech Enthusiast,<br>An Electronics & IoT Developer,<br>A Cloud & Web Developer ☁ & <br>A Drone-Creator</samp></h4> -->
@@ -25,10 +29,10 @@ const apollo-xy = {
     description: ["A Self-Motivated Tech Enthusiast, an IoT Developer and Full Stack Web Developer"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", ]
+            css: ["bootstrap"]
         },
         backEnd: {
-            js: ["firebase"], php: [],
+            js: ["firebase"], php,
         }        
     }
 };
