@@ -17,7 +17,7 @@
 # AboutMe.js
 
 ```javascript
-const apollo = {
+const apollo-xy = {
     pronouns: "He" | "Him",
     code: [Javascript, HTML, CSS, PHP, PYTHON, C ],
     keywords: ["WebDev", "Tech", "PWA", "Arduino", "ESP32", "Drone", "BGMI", "Music", "Tea"],
