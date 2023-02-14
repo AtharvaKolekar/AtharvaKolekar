@@ -25,14 +25,14 @@
 const apollo-xy = {
     pronouns: "He" | "Him",
     code: [Javascript, HTML, CSS, PHP, PYTHON, C ],
-    keywords: ["WebDev", "Tech", "PWA", "Arduino", "ESP32", "Drone", "BGMI", "Music", "Tea"],
-    description: ["A Self-Motivated Tech Enthusiast, an IoT Developer and Full Stack Web Developer"],
+    keywords: ["Eat", "Sleep", "Code", "Repeat"],
+    description: ["A Self-Motivated Tech Enthusiast", "An Electronics & IoT Developer", "A Full Stack Web Developer", "A Photographer"],
     technologies: {
         frontEnd: {
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["firebase"], php,
+            js: ["firebase", "jQuery"], php,
         }        
     }
 };
@@ -53,7 +53,7 @@ const apollo-xy = {
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white)
-![GitHub](https://img.shields.io/badge/Railway-b63bce?style=for-the-badge&logo=railway&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-b63bce?style=for-the-badge&logo=railway&logoColor=white)
 
 <!-- ![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=for-the-badge&logo=HackerRank&logoColor=black) -->
 <!-- ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white) -->
