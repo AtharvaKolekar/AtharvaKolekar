@@ -24,9 +24,9 @@
 ```javascript
 const apollo-xy = {
     pronouns: "He" | "Him",
-    code: [Javascript, HTML, CSS, PHP, PYTHON, C ],
-    keywords: ["Eat", "Sleep", "Code", "Repeat"],
-    description: ["A Self-Motivated Tech Enthusiast", "An Electronics & IoT Developer", "A Full Stack Web Developer", "A Photographer"],
+    code: [Javascript, HTML, CSS, PHP, PYTHON, C, JQUERY ],
+    keywords: ["Eat😋", "Sleep😴", "Code👨‍💻", "Repeat🔁"],
+    description: ["A Self-Motivated Tech Enthusiast💫", "An Electronics & IoT Developer🛠️", "A Full Stack Web Developer😎", "A Photographer📸"],
     technologies: {
         frontEnd: {
             css: ["bootstrap"]
